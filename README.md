@@ -1,6 +1,6 @@
 # English-reading-app
 
-echo "# test" >> README.md\n
+echo "# test" >> README.md</br>
 git init\n
 git add README.md\n
 git commit -m "first commit"\n
